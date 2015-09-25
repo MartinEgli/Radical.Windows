@@ -105,6 +105,7 @@
     <Compile Include="Model\ObservableEntityCollection %28Generic%29.cs" />
     <Compile Include="Model\SortDescriptionExtensions.cs" />
     <Compile Include="Observers\NotifyCollectionChangedMonitor.cs" />
+    <Compile Include="Observers\ObserversGroup.cs" />
     <Compile Include="Presentation\Behaviors\AutoComplete\AutoComplete.cs" />
     <Compile Include="Presentation\Behaviors\AutoComplete\AutoComplete.xaml.cs">
       <DependentUpon>AutoComplete.xaml</DependentUpon>

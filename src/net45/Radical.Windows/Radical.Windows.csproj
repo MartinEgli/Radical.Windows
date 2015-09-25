@@ -102,6 +102,9 @@
     <Compile Include="..\..\net35\Radical.Windows\Observers\NotifyCollectionChangedMonitor.cs">
       <Link>Observers\NotifyCollectionChangedMonitor.cs</Link>
     </Compile>
+    <Compile Include="..\..\net35\Radical.Windows\Observers\ObserversGroup.cs">
+      <Link>Observers\ObserversGroup.cs</Link>
+    </Compile>
     <Compile Include="..\..\net35\Radical.Windows\Presentation\Behaviors\AutoComplete\AutoComplete.cs">
       <Link>Presentation\Behaviors\AutoComplete\AutoComplete.cs</Link>
     </Compile>
